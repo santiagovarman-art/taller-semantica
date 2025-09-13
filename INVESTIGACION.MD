@@ -1,59 +1,62 @@
 Taller de Investigación: Fundamentos de HTML
-Nombre del Estudiante: [Escribe tu nombre completo aquí]
+Nombre del Estudiante: Santiago Varela Manjarres
 
 1. Anatomía de una Etiqueta HTML
 Etiqueta de Apertura y Cierre
 ¿Qué es una etiqueta de apertura?
 
-Escribe tu respuesta aquí.
+Esta es la etiqueta que idica l inicio de un elemento en HTLM, el cual se escribe el nombre del elemento entre < > un ejemplo puede ser: <p>
 
 ¿Qué es una etiqueta de cierre?
 
-Escribe tu respuesta aquí.
+Esta es la etiqueta que marca el final de un elemento, el cual se escribe tambien con el mismo nombre pero con una barra lateral (/) antes, un ejemplo puede ser asi: </p>
 
 Atributos
 ¿Qué es un atributo y para qué sirve? Da un ejemplo.
 
-Escribe tu respuesta aquí, incluyendo un ejemplo de código como <a href="https://google.com">Ir a Google</a> y explicando qué hace el atributo href.
+Un atributo es informacion adicional que se le agrega a una etiqueta para mejorar su comportamiento o apariencia.
+un ejemplo podria ser asi: <img src="foto.jpg" alt= "descripcion de imagen a poner">
 
 2. El Poder de la Semántica
 HTML Semántico
 ¿Qué es el HTML Semántico y por qué es tan importante?
 
-Escribe tu respuesta aquí, mencionando aspectos como accesibilidad (lectores de pantalla) y SEO (cómo los buscadores entienden tu página).
+El HTML Semantico utiliza etiquetas que describen claramente el significado del contenido,un ejemplo de esto seria: ( <header>,  el cual indica un encabezado), en el aspecto de accesibilidad esto ayuda a lectores de la pantalla los cuales pueden ayudar a una persona con discapacidad para entender la estructura del sitio.
+El SEO es el que facilita los motores de busqueda comprendan mejor el contenico y para que lo posicionen en lo mas alto de los resustados.
 
 Diccionario de Etiquetas Semánticas
 1: <header>:
 
-Explica su propósito aquí.
+Encabezado de una pagina o seleccion, esto contiene titulos, logotipos o menus.
 
 2: <nav>:
 
-Explica su propósito aquí.
+Esta define una seleccion de navegacion, normalmente con enlases a otras paginas o selecciones.
 
 3: <main>:
 
-Explica su propósito aquí.
+Esta contiene el contenido principal de la pagina, unico y cental.
 
 4: <section>:
 
-Explica su propósito aquí.
+Este funciona para agrupar contenido que sea relacionado con bloques tematicos.
 
 5: <article>:
 
-Explica su propósito aquí.
+Este representa un contenido independiente, un ejemplo de esto puede ser: una noticia, un post de blog, un comentario.
 
 6: <aside>:
 
-Explica su propósito aquí.
+Este es el contenido complementario o contendo lateral como barras laterales o notas.
 
 7: <footer>:
 
-Explica su propósito aquí.
-.
-.
-.
-.
-.
+El proposito de esto es:
+
+.Pie de pagina.     
+.Informacion final.
+.Creditos.
+.Derechos de Autor.
+.Enlases de contacto, etc
 
 20: 
